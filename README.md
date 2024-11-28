@@ -21,10 +21,6 @@ Sou desenvolvedor **Fullstack** com formação técnica em **Desenvolvimento de 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogocds&layout=compact&langs_count=10)
 
-### 🕒 Atividade no GitHub
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=diogocds)
-
 ## 🌐 Links
 
 - [LinkedIn](www.linkedin.com/in/dcdsdevfull)
