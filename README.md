@@ -23,7 +23,7 @@ Sou desenvolvedor **Fullstack** com formação técnica em **Desenvolvimento de 
 
 ### 🕒 Atividade no GitHub
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=diogocds)
+![GitHub Activity Stats](https://github-readme-streak-stats.herokuapp.com/?user=diogocds)
 
 ## 🌐 Links
 
