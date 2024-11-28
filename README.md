@@ -1,4 +1,4 @@
-# Olá, eu sou Diogo Cunha 👋
+# Olá, Eu Sou Diogo Cunha 👋
 
 Sou desenvolvedor **Fullstack** com formação técnica em **Desenvolvimento de Sistemas** pelo **Senac RN**. Tenho experiência em diversas tecnologias e estou sempre em busca de novos desafios para expandir meus conhecimentos e habilidades. 🚀
 
