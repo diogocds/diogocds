@@ -15,15 +15,15 @@ Sou desenvolvedor **Fullstack** com formação técnica em **Desenvolvimento de 
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogocunha&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogocds&show_icons=true&count_private=true)
 
 ### 📈 Principais linguagens usadas nos projetos
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogocunha&layout=compact&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogocds&layout=compact&langs_count=10)
 
 ### 🕒 Atividade no GitHub
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=diogocunha)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=diogocds)
 
 ## 🌐 Links
 
