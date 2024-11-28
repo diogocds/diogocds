@@ -2,7 +2,7 @@
 
 Sou desenvolvedor **Fullstack** com formação técnica em **Desenvolvimento de Sistemas** pelo **Senac RN**. Tenho experiência em diversas tecnologias e estou sempre em busca de novos desafios para expandir meus conhecimentos e habilidades. 🚀
 
-## 🚀 Tecnologias que uso
+## 🚀 Hard Skills:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
@@ -21,7 +21,7 @@ Sou desenvolvedor **Fullstack** com formação técnica em **Desenvolvimento de 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogocds&layout=compact&langs_count=10)
 
-## 🌐 Links
+## 🌐 Para Me Encontrar:
 
 <p>
   <a href="https://www.linkedin.com/in/dcdsdevfull" target="_blank" style="text-decoration:none;">
