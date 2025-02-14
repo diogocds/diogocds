@@ -27,7 +27,7 @@ Sou desenvolvedor **Fullstack** com formação técnica em **Desenvolvimento de 
   <a href="https://www.linkedin.com/in/dcdsdevfull" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://diogocds.github.io/meu_portfolio/" target="_blank" style="text-decoration:none; overflow:hidden">
+  <a href="https://diogocds.github.io/portfolio/" target="_blank" style="text-decoration:none; overflow:hidden">
     <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=flat&logo=google-chrome&logoColor=white" alt="Portfólio" />
   </a>
 </p>
